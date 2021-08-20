@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop:40,
+    marginTop:20,
   },
   absentContainer :{
     
